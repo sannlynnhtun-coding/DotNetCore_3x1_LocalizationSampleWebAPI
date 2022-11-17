@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore_3x1_LocalizationSampleWebAPI", "DotNetCore_3x1_LocalizationSampleWebAPI\DotNetCore_3x1_LocalizationSampleWebAPI.csproj", "{E6CB618E-C9CF-464A-8D61-67DCA4493E4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6CB618E-C9CF-464A-8D61-67DCA4493E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CB618E-C9CF-464A-8D61-67DCA4493E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CB618E-C9CF-464A-8D61-67DCA4493E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CB618E-C9CF-464A-8D61-67DCA4493E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD6887E-8910-425D-9207-F42C092AD4F1}
+	EndGlobalSection
+EndGlobal
